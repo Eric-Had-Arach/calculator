@@ -18,8 +18,8 @@ body {
 .calculator {
   display: grid;
   grid-template: repeat(6, 16.66%) / repeat(4, 25%);
-  width: 50%;
-  height: 50%;
+  width: 40%;
+  height: 60%;
   justify-content: center;
   align-content: center;
   border-width: 8px;
